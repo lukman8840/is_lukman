@@ -1,18 +1,26 @@
-
-
 # 👋 Hi, I’m Lukman Modibbo Said
+
 🎓 I'm a Computer Science graduate with a strong foundation in **Mathematics** and a passion for **software development**, **web design**, and **digital education**.  
 📚 I taught **Mathematics**, **Further Mathematics**, and **Computer Science** for over 6 years, using tech-integrated lessons to engage and inspire students.  
 💻 I’m currently learning and building with **JavaScript**, **React**, and diving deeper into **full-stack development**.  
 🚀 I'm part of the **3MTT Software Development cohort** (Cohort ID: FE/23/83944949)  
 🌍 Based in Nigeria | Passionate about using technology to solve real-world problems, especially in education.
 
+### 🛠️ Skills & Technologies
+
+- **Frontend**: HTML, CSS, JavaScript, React.js  
+- **Backend (Learning)**: Node.js, Express  
+- **Version Control**: Git, GitHub  
+- **Tools & Platforms**: VS Code, Chrome DevTools, SAFSMS  
+- **Other Skills**: RESTful APIs, Responsive Design, Debugging, UI/UX Fundamentals  
+- **Soft Skills**: Teaching, Teamwork, Communication, Curriculum Design
+
 ### 🌱 Currently Working On
 - Real-life projects to improve my frontend and backend skills  
 - Exploring APIs, authentication, and clean UI design  
 - Enhancing my Git & GitHub workflow
 
-### 💡 I’m Interested In
+### 💡 Interests
 - Building scalable digital solutions  
 - Open source collaboration  
 - Educational Technology and Digital Innovation  
